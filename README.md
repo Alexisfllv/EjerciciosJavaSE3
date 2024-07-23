@@ -1,4 +1,4 @@
-# 📘 Ejercicios de Java del Curso de Hubaldo Acosta en Udemy
+# 📘 Ejercicios de Java SE del Curso de Hubaldo Acosta en Udemy y Adicionales
 
 ## 📚 Contenido y Ejercicios
 
